@@ -4,6 +4,7 @@ public class one
 	{
 		system.out.println("welcome world");
 	        system.out.println("mysore,banglore");
+		system.out.println("tumkuru");
 	}
 
 }
